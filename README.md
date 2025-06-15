@@ -9,7 +9,7 @@ I am a web Developer💻
 const AliTohidlou = {     
     aboutMe: "I'm js Developer",
     language: ["javaScript", "typeScript"], // Node.js        
-    myStack: {             
+    myStacks: {             
         backEnd: {             
           frameworks: ["Express.js", "fastify"],                   
           microServiceTools: ["gRPC", "RabbitMQ"],
