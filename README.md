@@ -7,7 +7,7 @@ I am a web Developer💻
 
 ```javascript
 const AliTohidlou = {     
-    aboutMe: "I'm js Developer"
+    aboutMe: "I'm js Developer" ,
     language: ["javaScript", "typeScript"] // Node.js,         
     myStack: {             
         backEnd: {             
