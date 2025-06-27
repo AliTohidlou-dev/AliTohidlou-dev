@@ -49,7 +49,8 @@ const AliTohidlou = {
 ![GitHub Streak](https://streak-stats.demolab.com/?user=alitohidlou-dev&theme=radical)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alitohidlou-dev&show_icons=true&theme=radical)
 ### Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alitohidlou-dev&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alitohidlou-dev&layout=compact&theme=tokyonight
+)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
