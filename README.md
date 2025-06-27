@@ -48,8 +48,6 @@ const AliTohidlou = {
 ### Github 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=alitohidlou-dev&theme=dark)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alitohidlou-dev&show_icons=true&theme=dark)
-### Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alitohidlou-dev&theme=dark&langs_count=10)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
