@@ -45,10 +45,6 @@ const AliTohidlou = {
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Github 
-![GitHub Streak](https://streak-stats.demolab.com/?user=alitohidlou-dev&theme=dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alitohidlou-dev&show_icons=true&theme=dark)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/alitohidlou?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
