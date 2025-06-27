@@ -45,6 +45,11 @@ const AliTohidlou = {
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+### Github 
+![GitHub Streak](https://streak-stats.demolab.com/?user=alitohidlou-dev&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alitohidlou-dev&show_icons=true&theme=radical)
+### Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alitohidlou&layout=compact&theme=radical)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
