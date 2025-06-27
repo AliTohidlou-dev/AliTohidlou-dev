@@ -46,11 +46,10 @@ const AliTohidlou = {
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Github 
-![GitHub Streak](https://streak-stats.demolab.com/?user=alitohidlou-dev&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alitohidlou-dev&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=alitohidlou-dev&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alitohidlou-dev&show_icons=true&theme=dark)
 ### Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alitohidlou-dev&layout=compact&theme=tokyonight
-)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alitohidlou-dev&layout=compact&theme=dark)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
